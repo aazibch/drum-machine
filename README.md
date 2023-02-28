@@ -1,6 +1,11 @@
 # Drum Machine
 
-This is a virtual drum machine. Each button on the button pad plays a different sound. The name of the audio is displayed on the screen area. Users can also adjust the volume using the volume slider.
+This is a virtual drum machine.
+
+- Each button on the button pad plays a different sound.
+- The name of the audio is displayed on the screen area.
+- Users can also adjust the volume using the volume slider.
+- Users can either select the on-screen buttons or they can use the keyboard to play the sounds.
 
 ## Demo
 
