@@ -1,6 +1,10 @@
 # Drum Machine
 
-This project is part of [freeCodeCamp](https://www.freecodecamp.org/)'s curriculum.
+This is a virtual drum machine. Each button on the button pad plays a different sound. The name of the audio is displayed on the screen area. Users can also adjust the volume using the volume slider.
+
+## Demo
+
+The project demo can be accessed at https://codepen.io/aazibch/full/OJgzKXj.
 
 ## User Stories
 
